@@ -1,0 +1,26 @@
+body {
+  background-color: #111;
+}
+h4 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.form-control-plaintext {
+  outline: 0;
+  color: #fff;
+}
+.control-form {
+  resize: none;
+}
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgb(65, 63, 63);
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(22, 37, 51);
+}
